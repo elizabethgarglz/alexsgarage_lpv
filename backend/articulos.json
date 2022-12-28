@@ -1,0 +1,91 @@
+[
+    {
+        "nombre": "Maquillaje base",
+        "precio": 240,
+        "rebaja": 210,
+        "imagen": "./assets/base_maquillaje_carrusel_2.jpg"
+    }
+    
+    ,
+
+    {
+        "nombre": "Maquillaje base gran pigmentación",
+        "precio": 540,
+        "rebaja": 420,
+        "imagen": "./assets/base_maquillaje_carrusel.jpg"
+    }
+    
+    , 
+    
+    {
+        "nombre": "Rimel rosa",
+        "precio": 120,
+        "rebaja": 80,
+        "imagen": "./assets/rimel.jpg"
+    }
+    , 
+    
+    {
+        "nombre": "Rimel fijador",
+        "precio": 160,
+        "rebaja": 125,
+        "imagen": "./assets/rimel_2.jpg"
+    }
+    , 
+    
+    {
+        "nombre": "Paleta correctores maquillaje",
+        "rebaja": 800,
+        "p_descuento": 765,
+        "imagen": "./assets/Paleta-correctores-maquillaje.jpg"
+    }
+    , 
+    
+    {
+        "nombre": "Paleta de maquillaje",
+        "precio": 540,
+        "rebaja": 500,
+        "imagen": "./assets/paleta-sombras.jpg"
+    }
+    , 
+    
+    {
+        "nombre": "Paleta de sombras/colores",
+        "precio": 610,
+        "rebaja": 570,
+        "imagen": "./assets/paleta-sombras_2.jpg"
+    }
+    , 
+    
+    {
+        "nombre": "Paleta de sombras",
+        "precio": 400,
+        "rebaja": 315,
+        "imagen": "./assets/paleta-sombras_3.jpg"
+    }
+    , 
+    
+    {
+        "nombre": "Rubor colores",
+        "precio": 150,
+        "rebaja": 25,
+        "imagen": "./assets/rubor.jpg"
+    }
+    , 
+    
+    {
+        "nombre": "Rubor rosa",
+        "precio": 410,
+        "rebaja": 365,
+        "imagen": "./assets/rubor_2.jpg"
+    }
+    , 
+    
+    {
+        "nombre": "Rubor color claro",
+        "precio": 180,
+        "rebaja": 25,
+        "imagen": "./assets/rubor_3.jpg"
+    }
+    
+]
